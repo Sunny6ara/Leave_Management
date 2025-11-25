@@ -64,10 +64,6 @@ Update DB credentials in:
 
 src/main/java/com/employee/util/DBConnection.java
 
-🚀 How to Run the Project
-1. Clone the Repository
-git clone https://github.com/AbhishekTripathi2005/LeaveManagement.git
-cd LeaveManagement
 
 2. Configure Database
 
