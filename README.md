@@ -1,1 +1,1 @@
-# Leave_Management
+This project is a web-based application that allows employees to apply for leave and track their leave status. It includes modules such as Employee Login, Apply Leave, Dashboard, Leave History, Admin Login, Pending Leave Requests, and Admin Approval/Rejection. Admin can approve or reject leave requests, and employees can view their leave record online. The system uses JSP, JDBC, and MySQL for backend processing.
