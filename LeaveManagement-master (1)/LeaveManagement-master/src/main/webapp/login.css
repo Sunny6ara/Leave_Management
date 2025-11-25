@@ -1,0 +1,74 @@
+/* Full Page Center Layout */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #4c6ef5, #3bc9db);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* centers vertically */
+    align-items: center;     /* centers horizontally */
+}
+
+/* Login Title */
+h2 {
+    color: #ffffff;
+    margin-bottom: 20px;
+    font-size: 30px;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.3);
+}
+
+/* Login Box */
+form {
+    background: #ffffff;
+    padding: 25px 35px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    width: 300px;
+    text-align: center;
+}
+
+/* Input Fields */
+input[type="text"],
+input[type="password"] {
+    width: 90%;
+    padding: 10px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+/* Button */
+input[type="submit"] {
+    margin-top: 15px;
+    width: 100%;
+    padding: 10px;
+    background: #4c6ef5;
+    border: none;
+    color: white;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* Hover */
+input[type="submit"]:hover {
+    background: #364fc7;
+}
+
+/* Link */
+a {
+    display: block;
+    margin-top: 15px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
