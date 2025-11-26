@@ -81,7 +81,7 @@ to Tomcat’s webapps folder.
 Start Tomcat.
 
 5. Access Application
-http://localhost:8080/LeaveManagement
+http://localhost:8081/LeaveManagement
 
 👨‍💻 Default Login Credentials (optional section)
 
